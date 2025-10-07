@@ -1,0 +1,13 @@
+
+The Base network, an Ethereum Layer 2 developed by Coinbase, is the backbone for many Farcaster Mini Apps—including ENB. Here's how Base enhances ENB:
+1. MiniKit SDK Integration
+ENB uses MiniKit, Base’s SDK for building Mini Apps. This toolkit simplifies:
+
+Manifest creation and verification
+Wallet abstraction and transaction handling
+Embed metadata for social sharing [docs.base.org]
+
+2. Onchain Transactions
+ENB supports onchain rewards, such as minting NFTs or earning tokens based on user activity. These transactions are processed on Base, ensuring low fees and fast confirmation times. [deepwiki.com]
+3. Seamless Deployment
+Base provides templates and hosting guides (e.g., via Vercel) that allow developers to deploy apps like ENB in minutes. This rapid deployment cycle encourages experimentation and viral growth. [docs.base.org]
