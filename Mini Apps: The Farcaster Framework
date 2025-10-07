@@ -1,0 +1,9 @@
+
+Mini Apps (formerly Frames v2) are web applications built using standard technologies (HTML, CSS, JS) and enhanced by Farcaster’s SDK. They offer:
+
+Native-like UX: Apps feel integrated into the Farcaster client.
+Wallet Connectivity: Users can perform Ethereum-based transactions directly in-feed.
+Social Graph Access: Apps can personalize experiences using cast data, reactions, and user profiles.
+Notifications & Retention: Developers can re-engage users with mobile alerts and persistent app states. [docs.neynar.com]
+
+ENB leverages these features to create a sticky, rewarding experience for users, often tied to onchain actions like minting or staking.
